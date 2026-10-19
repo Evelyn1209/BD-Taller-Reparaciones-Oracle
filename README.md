@@ -39,8 +39,8 @@ Tablas principales:
 - `TBL_WORKORDER_STATUS`, `TBL_WORKORDERS_P`, `TBL_WORKORDER_ITEMS_P`
 - `TBL_AUDIT_LOG`, `TBL_ERROR_LOG`
 
-[Si tiene el diagrama entidad-relación, súbalo como `diagrama-er.png` y agregue aquí:]
-![Diagrama entidad-relación](diagrama-er.png)
+<img width="1946" height="2656" alt="image" src="https://github.com/user-attachments/assets/9dfcfa47-a5a6-41fd-96bc-009d06db723f" />
+
 
 ## Cómo ejecutarlo
 
